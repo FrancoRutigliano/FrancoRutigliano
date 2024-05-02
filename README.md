@@ -21,10 +21,7 @@
 - 🔭 I’m currently working on [Ecommerce in golang](https://github.com/FrancoRutigliano/PracticeEcom)  
   
 
-- 🌱 I’m currently learning Docker and Kubernetes  
-  
-
-- ❓ Ask me about anything related to Go, Docker  and related technologies  
+- ❓ Ask me about anything related to **Go, Docker  and related technologies**
   
 
 - ⚡ Fun fact: I'm founding my own company 😊  
