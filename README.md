@@ -23,7 +23,7 @@
 - ❓ Ask me about anything related to **anything related to backend**
   
 
-- ⚡ I'm a backend dev and content creator 😊  
+- ⚡ I'm a backend dev and content creator who wants to be better in the Go World 😊  
 
 
 </td><td valign="top" width="50%">
