@@ -17,13 +17,13 @@
 ## ABOUT ME  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a project who simulate a Cinema system, check this out: [CineX](https://github.com/FrancoRutigliano/PracticeEcom)  
+- 🔭 I’m currently working on a projects for myself and for clients  
   
 
 - ❓ Ask me about anything related to **anything related to backend**
   
 
-- ⚡ I'm a backend dev and content creator who wants to be better in the Go World 😊  
+- ⚡ I'm a backend dev and content creator 😊  
 
 
 </td><td valign="top" width="50%">
