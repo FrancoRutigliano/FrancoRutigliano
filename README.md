@@ -50,12 +50,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
 
-
-### My nexts step
-[![My Skills](https://skillicons.dev/icons?i=htmx)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-
 <br>  
 
 
