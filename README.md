@@ -1,30 +1,41 @@
 <h1 align="center">Hey, I'm Franco Rutigliano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;Backend+Dev+@francorutiglianook;Content+Creator;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;Backend+Developer"></a>
 </p> 
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francorutigliano&theme=tokyonight" alt="francorutigliano" /></a> </p>
+
 
 <h2 align="left">About me<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
 <pre>
-💻 I am a backend developer
-📝 I have an strong interest in improve my skills like dev
-🔭 Working freelance and content creator (+20k followers on instagram)
-🌟 Main languages: Golang, Typescript and rust
-🚩 I really don´t like interpreted languages hehe
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="" target="_blank">MY RESUME.</a>
+💻 Backend Developer
+📝 Passionate about enhancing my development skills
+🔭 Freelance professional and content creator with over 20k followers on Instagram
+🌟 Expertise in Golang, TypeScript, and Rust
+🚩 Strong preference for compiled languages
+🤔 Actively seeking <b>new</b> jobs opportunieties: Check out <a href="" target="_blank">MY RESUME.</a>
 </pre>
 
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="left">My Projects<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=45px></h2>
+<h2 align="left">My work<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=45px></h2>
 
 <div>
-  <p align="center">
+  <p align="left">
 	<a href="https://github.com/FrancoRutigliano/L-athelier-back">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=francorutigliano&repo=L-athelier-back&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-	
+  	</a>
+  </p>
+
+## Stars  
+
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francorutigliano&layout=compact&theme=tokyonight" alt=romanmeclazcke />
+
+<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=francorutigliano&show_icons=true&locale=en&theme=tokyonight" alt="francorutigliano" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=francorutigliano&theme=tokyonight" alt="francorutigliano" /></p>
 
 ## Technologies  
 
@@ -36,19 +47,6 @@
 
 
 <br>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FrancoRutigliano&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
-
-</td><td valign="left" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoRutigliano&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
 <br/>  
 
 
