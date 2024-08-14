@@ -17,7 +17,7 @@
 🔭 Freelance professional and content creator with over 20k followers on Instagram
 🌟 Expertise in Golang, TypeScript, and Rust
 🚩 Strong preference for compiled languages
-🤔 Actively seeking <b>new</b> jobs opportunieties: Check out <a href="" target="_blank">MY RESUME.</a>
+🤔 Actively seeking <b>new</b> jobs opportunieties: Check out <a href="https://drive.google.com/file/d/1TgXhBdsbI3fdId2Q2OBeB6mIMFmFMNFc/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 
 
