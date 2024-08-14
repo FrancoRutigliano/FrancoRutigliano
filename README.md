@@ -34,9 +34,6 @@
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,git,graphql,mongodb,mysql,postgres,postman,redis,sequelize,aws,bash)](https://skillicons.dev)
 
-## Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
-
 
 <br>  
 
