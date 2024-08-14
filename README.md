@@ -1,7 +1,11 @@
+
+![Profile views counter](https://komarev.com/ghpvc/?username=FrancoRutigliano&&style=flat-square)
+
 <h1 align="center">Hey, I'm Franco Rutigliano<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;Backend+Developer"></a>
 </p> 
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francorutigliano&theme=tokyonight" alt="francorutigliano" /></a> </p>
 
@@ -30,7 +34,7 @@
   </p>
 </div>
 
-## Stars  
+<h2 align="left">Stars</h2> 
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francorutigliano&layout=compact&theme=tokyonight" alt=romanmeclazcke />
 
@@ -38,7 +42,7 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=francorutigliano&theme=tokyonight" alt="francorutigliano" /></p>
 
-## Technologies  
+<h2 align="left">Technologies</h2> 
 
 ### Languages and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=go,nodejs,nestjs,rust,ts,js)](https://skillicons.dev)
@@ -64,18 +68,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/francorutigliano/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/francorutiglianook/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-
-  
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>  
 </p>
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=FrancoRutigliano&&style=flat-square)  
-  
-
-<br/>  
-
-  
