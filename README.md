@@ -36,7 +36,7 @@
 
 <h2 align="left">Stars</h2> 
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francorutigliano&layout=compact&theme=tokyonight" alt=romanmeclazcke />
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francorutigliano&layout=compact&theme=tokyonight" alt=francorutigliano/></p>
 
 <p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=francorutigliano&show_icons=true&locale=en&theme=tokyonight" alt="francorutigliano" /></p>
 
