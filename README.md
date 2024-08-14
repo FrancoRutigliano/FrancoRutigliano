@@ -36,11 +36,12 @@
 
 <h2 align="left">Stars</h2> 
 
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francorutigliano&layout=compact&theme=tokyonight" alt=francorutigliano/></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francorutigliano&layout=compact&theme=tokyonight" alt="francorutigliano" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francorutigliano&show_icons=true&locale=en&theme=tokyonight" alt="francorutigliano" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=francorutigliano&theme=tokyonight" alt="francorutigliano" />
+</div>
 
-<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=francorutigliano&show_icons=true&locale=en&theme=tokyonight" alt="francorutigliano" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=francorutigliano&theme=tokyonight" alt="francorutigliano" /></p>
 
 <h2 align="left">Technologies</h2> 
 
