@@ -31,6 +31,9 @@
 	<a href="https://github.com/FrancoRutigliano/L-athelier-back">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=francorutigliano&repo=L-athelier-back&theme=tokyonight" alt="GitHub Stats" />
   	</a>
+	<a href="https://github.com/FrancoRutigliano/AT3-TelegramBot">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=francorutigliano&repo=AT3-TelegramBot&theme=tokyonight" alt="GitHub Stats" />
+  	</a>
   </p>
 </div>
 
