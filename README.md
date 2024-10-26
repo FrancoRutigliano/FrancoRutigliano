@@ -13,12 +13,15 @@
 <h2 align="left">About me<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
 <pre>
 💻 Backend Developer
-📝 My most recent Project: Check this out <a href="https://github.com/FrancoRutigliano/L-athelier-back/" target="_blank">PROJECT</a>
-🔭 Freelance professional and content creator with over 20k followers on Instagram
+🔭 Golang Dev and content creator with over 20k followers on Instagram
 🌟 Expertise in Golang, TypeScript, and Rust
 🚩 Strong preference for compiled languages
-🤔 Actively seeking <b>new</b> jobs opportunieties: Check out <a href="https://drive.google.com/file/d/1TgXhBdsbI3fdId2Q2OBeB6mIMFmFMNFc/view?usp=sharing" target="_blank">MY RESUME.</a>
+🏛️ Working at <a href="https://hetmo.com/" target="_blank">Hetmo.</a>
 </pre>
+
+<!--📝 My most recent Project: Check this out <a href="https://github.com/FrancoRutigliano/L-athelier-back/" target="_blank">PROJECT</a>-->
+<!-- 🤔 Actively seeking <b>new</b> jobs opportunieties: Check out <a href="https://drive.google.com/file/d/1TgXhBdsbI3fdId2Q2OBeB6mIMFmFMNFc/view?usp=sharing" target="_blank">MY RESUME.</a>
+</pre> -->
 
 
 <!--horizontal divider(gradiant)-->
