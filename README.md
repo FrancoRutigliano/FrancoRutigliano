@@ -3,7 +3,7 @@
 
 <h1 align="center">Hey, I'm Franco Rutigliano<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;Backend+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;Backend+Developer;Golang+Dev"></a>
 </p> 
 
 
@@ -13,9 +13,9 @@
 <h2 align="left">About me<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
 <pre>
 💻 Backend Developer
-🔭 Golang Dev and content creator with over 20k followers on Instagram
-🌟 Expertise in Golang, TypeScript, and Rust
-🚩 Strong preference for compiled languages
+🔭 Content creator with over 20k followers on Instagram
+🌟 Expertise in Golang.
+🚩 Strong preference for compiled languages.
 🏛️ Working at <a href="https://hetmo.com/" target="_blank">Hetmo.</a>
 </pre>
 
