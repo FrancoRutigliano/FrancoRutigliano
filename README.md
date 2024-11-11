@@ -55,7 +55,7 @@
 [![My Skills](https://skillicons.dev/icons?i=go,nodejs,nestjs,rust,ts,js)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,git,graphql,mongodb,mysql,postgres,postman,redis,sequelize,aws,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,graphql,mongodb,mysql,postgres,postman,redis,sequelize,aws,bash,linux)](https://skillicons.dev)
 
 
 <br>  
