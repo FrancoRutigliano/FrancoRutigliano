@@ -30,10 +30,7 @@
 <h2 align="left">My work<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=50px></h2>
 
 <div>
-  <p align="left">
-	<a href="https://github.com/FrancoRutigliano/L-athelier-back">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=francorutigliano&repo=L-athelier-back&theme=tokyonight" alt="GitHub Stats" />
-  	</a>
+  <p align="center">
 	<a href="https://github.com/FrancoRutigliano/AT3-TelegramBot">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=francorutigliano&repo=AT3-TelegramBot&theme=tokyonight" alt="GitHub Stats" />
   	</a>
