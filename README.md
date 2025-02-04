@@ -18,8 +18,7 @@
 💻 Backend Developer.
 🔭 Content creator with over 20k followers on Instagram.
 🌟 I like Golang.
-🏋️‍♂️ Jiujitsu practitioner and gym enthusiast.
-⛰️ Mountain lover and adventure seeker.
+🏋️‍♂️ Jiujitsu and gym.
 🏛️ Working at <a href="https://hetmo.com/" target="_blank">Hetmo</a>.
 </pre>
 
